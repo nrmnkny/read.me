@@ -2,9 +2,9 @@
 
 ## About Me
 
-I'm a passionate front-end developer with a keen interest in creating highly interactive web and mobile user interfaces. I am proficient in using modern technologies like React JS, Vue.js, TypeScript, Tailwind CSS, and SASS to bring creative designs to life. 
+I'm a passionate front-end developer with a keen interest in creating highly interactive web and mobile user interfaces. I am proficient in using modern technologies like React JS, TypeScript, Tailwind CSS, and SASS to bring creative designs to life. 
 
-Currently, I am diving deeper into the world of mathematics, focusing on algebra and calculus, to enhance my problem-solving skills and understanding of complex algorithms. These studies are part of my journey to become a more versatile and knowledgeable software engineer.
+Currently, I am diving deeper into the world of node JS to enhance my problem-solving skills and understanding of complex algorithms. These studies are part of my journey to become a more versatile and knowledgeable software engineer.
 
 ## Reading List
 
